@@ -4,7 +4,7 @@
 This is one of the project done in the Nano degree program - Computer Vision - at Udacity
 ## Project Overview
 
-In this project, you’ll combine your knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: **facial tracking, facial pose recognition, facial filters, and emotion recognition**. <br>
+In this project, we combine our knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: **facial tracking, facial pose recognition, facial filters, and emotion recognition**. <br>
 This project gives us the ability to :<br>
 1. Look at any image, 
 2. Detect faces, and 
@@ -67,7 +67,7 @@ pip install -r requirements.txt
 
 ### Data
 
-All of the data you'll need to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
+All the training data to train a neural network is in the P1_Facial_Keypoints repo, in the subdirectory `data`. In this folder are training and tests set of image/keypoint data, and their respective csv files. This will be further explored in Notebook 1: Loading and Visualizing Data, and you're encouraged to look trough these folders on your own, too.
 
 
 LICENSE: This project is licensed under the terms of the MIT license.
