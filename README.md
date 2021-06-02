@@ -4,11 +4,17 @@
 This is one of the project done in the Nano degree program - Computer Vision - at Udacity
 ## Project Overview
 
-In this project, you’ll combine your knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: **facial tracking, facial pose recognition, facial filters, and emotion recognition**. This project gives us the ability to look at any image, detect faces, and predict the locations of facial keypoints on each face; examples of these keypoints are displayed below.
+In this project, you’ll combine your knowledge of computer vision techniques and deep learning architectures to build a facial keypoint detection system. Facial keypoints include points around the eyes, nose, and mouth on a face and are used in many applications. These applications include: **facial tracking, facial pose recognition, facial filters, and emotion recognition**. <br>
+This project gives us the ability to :<br>
+1. Look at any image, 
+2. Detect faces, and 
+3. Predict the locations of facial keypoints on each face; 
+
+examples of these keypoints are displayed below.
 
 ![Facial Keypoint Detection][image1]
 
-The project is broken up into a few main parts in four Python notebooks, :
+The project is build using Python, OpenCV and Pytorch and is broken up into a four main parts in four Python notebooks, :
 
 __Notebook 1__ : Loading and Visualizing the Facial Keypoint Data
 
